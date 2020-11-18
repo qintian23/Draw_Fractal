@@ -1,6 +1,6 @@
 // 程序名称：分形学 - 可以无穷放大的 Mandelbrot Set (曼德布洛特集)
-// 编译环境：Visual C++ 6.0，EasyX 2011惊蛰版
-// 最后更新：2010-9-9
+// 编译环境：Visual studio 2019，EasyX 2018
+// 最后更新：2020-11-18
 //
 #include <graphics.h>
 #include <conio.h>
